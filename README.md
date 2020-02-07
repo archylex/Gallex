@@ -21,12 +21,12 @@ Add your pictures to the appropriate folders. \
 **Mouse:**
 * Right Button - camera rotation around the system
 * Middle Button - zoom in and out
-* Left Button - select an object \
+* Left Button - select an object
 
 **Keyboard:**
 * f - focus on the selected object
 * r - reset camera position
-* i - show/hide info on selected object\
+* i - show/hide info on selected object
 
 ***To call up the menu press 'Esc' or click on the bottom button.*** \
 ![create planet menu](https://github.com/archylex/Gallex/blob/master/screenshots/3.png)
