@@ -1,0 +1,14 @@
+<settings>
+	<settings time_scale="1" system_scale="1" distance_scale="1" time_now="156.336" />
+</settings>
+<stars>
+	<star name="Star" equatorial_radius="7" obliquity="0" rotation="0" spectral="G2V" position_x="0" position_y="0" position_z="-30" />
+</stars>
+<planets>
+	<planet name="Sed" mean_radius="3" obliquity="0" rotation="0" orbital_inclination="0" sidereal_period="2" eccentricity="0.3" semimajor_axis="50" parent="Star" texture="Gasus.png" ring="" />
+	<planet name="Seato" mean_radius="3" obliquity="0" rotation="0" orbital_inclination="0" sidereal_period="0" eccentricity="0.3" semimajor_axis="100" parent="Star" texture="Seato.png" ring="" />
+	<planet name="Asa" mean_radius="3" obliquity="0" rotation="0" orbital_inclination="0" sidereal_period="0" eccentricity="0.3" semimajor_axis="150" parent="Star" texture="Greenard.png" ring="" />
+</planets>
+<satellites>
+	<satellite name="Satellite" mean_radius="1" obliquity="0" rotation="0" orbital_inclination="0" sidereal_period="0" eccentricity="0.7" semimajor_axis="25" parent="Seato" texture="Mon.png" />
+</satellites>

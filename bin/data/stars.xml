@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stars>
+        <star name="Acamar" identity="Theta Eridani" magnitude="3.24" spectral="A4III" right_ascension="2h 58.262m" declination="-40° 18.283'" />
+        <star name="Achernar" identity="Alpha Eridani" magnitude="0.46" spectral="B3Vpe" right_ascension="1h 37.715m" declination="-57° 14.200'" />
+        <star name="Achird" identity="Eta Cassiopeiae" magnitude="3.44" spectral="F9V+dM0" right_ascension="0h 49.100m" declination="57° 48.950'" />
+        <star name="Acrab" identity="Beta Scorpii" magnitude="2.62" spectral="B1V" right_ascension="16h 5.437m" declination="-19° 48.333'" />
+        <star name="Acrux" identity="Alpha Crucis" magnitude="1.33" spectral="B0.5IV" right_ascension="12h 26.598m" declination="-63° 5.950'" />
+        <star name="Acubens" identity="Alpha Cancri" magnitude="4.25" spectral="A5m" right_ascension="8h 58.487m" declination="11° 51.467'" />
+        <star name="Adhafera" identity="Zeta Leonis" magnitude="3.44" spectral="F0III" right_ascension="10h 16.690m" declination="23° 25.033'" />
+        <star name="Adhara" identity="Epsilon Canis Majoris" magnitude="1.5" spectral="B2II" right_ascension="6h 58.625m" declination="-28° 58.333'" />
+        <star name="Ain" identity="Epsilon Tauri" magnitude="3.53" spectral="G9.5IIICN0.5" right_ascension="4h 28.617m" declination="19° 10.817'" />
+        <star name="Al Giedi" identity="Alpha Capricorni" magnitude="3.57" spectral="G8IIIb" right_ascension="20h 18.055m" declination="-12° 32.683'" />
+        <star name="Alaraph" identity="Beta Virginis" magnitude="3.61" spectral="F9V" right_ascension="11h 50.695m" declination="1° 45.883'" />
+        <star name="Albali" identity="Epsilon Aquarii" magnitude="3.77" spectral="A1V" right_ascension="20h 47.677m" declination="-9° 29.750'" />
+        <star name="Albireo" identity="Beta Cygni" magnitude="3.08" spectral="K3II+B9.5V" right_ascension="19h 30.722m" declination="27° 57.583'" />
+        <star name="Alchibah" identity="Alpha Corvi" magnitude="4.02" spectral="F2III-IV" right_ascension="12h 8.413m" declination="-24° 43.733'" />
+        <star name="Alcor" identity="80 Ursae Majoris" magnitude="4.01" spectral="A5V" right_ascension="13h 25.225m" declination="54° 59.283'" />
+        <star name="Alcyone" identity="Eta Tauri" magnitude="2.87" spectral="B7IIIe" right_ascension="3h 47.485m" declination="24° 6.300'" />
+        <star name="Aldebaran" identity="Alpha Tauri" magnitude="0.85" spectral="K5+III" right_ascension="4h 35.920m" declination="16° 30.550'" />
+        <star name="Alderamin" identity="Alpha Cephei" magnitude="2.44" spectral="A7V" right_ascension="21h 18.580m" declination="62° 35.133'" />
+        <star name="Alfirk" identity="Beta Cephei" magnitude="3.23" spectral="B1IV" right_ascension="21h 28.660m" declination="70° 33.650'" />
+        <star name="Algebar" identity="Beta Orionis" magnitude="0.12" spectral="B8Ia:" right_ascension="5h 14.538m" declination="-8° 12.100'" />
+        <star name="Algenib" identity="Gamma Pegasi" magnitude="2.83" spectral="B2IV" right_ascension="0h 13.237m" declination="15° 11.017'" />
+        <star name="Algieba" identity="Gamma Leonis" magnitude="2.61" spectral="K1-IIIbFe-0.5" right_ascension="10h 19.972m" declination="19° 50.500'" />
+        <star name="Algol" identity="Beta Persei" magnitude="2.12" spectral="B8V" right_ascension="3h 8.168m" declination="40° 57.333'" />
+        <star name="Algorab" identity="Delta Corvi" magnitude="2.95" spectral="B9.5V" right_ascension="12h 29.865m" declination="-16° 30.933'" />
+        <star name="Alhena" identity="Gamma Geminorum" magnitude="1.93" spectral="A0IV" right_ascension="6h 37.712m" declination="16° 23.950'" />
+        <star name="Alioth" identity="Epsilon Ursae Majoris" magnitude="1.77" spectral="A0pCr" right_ascension="12h 54.028m" declination="55° 57.583'" />
+        <star name="Alkaid" identity="Eta Ursae Majoris" magnitude="1.86" spectral="B3V" right_ascension="13h 47.540m" declination="49° 18.800'" />
+        <star name="Alkalurops" identity="Mu Bo÷tis" magnitude="4.31" spectral="F2IVa" right_ascension="15h 24.490m" declination="37° 22.633'" />
+        <star name="Alkes" identity="Alpha Crateris" magnitude="4.08" spectral="K0+III" right_ascension="10h 59.775m" declination="-18° 17.933'" />
+        <star name="Almach" identity="Gamma Andromedae" magnitude="2.26" spectral="K3-IIb" right_ascension="2h 3.900m" declination="42° 19.783'" />
+        <star name="Almeisan" identity="Gamma Geminorum" magnitude="1.93" spectral="A0IV" right_ascension="6h 37.712m" declination="16° 23.950'" />
+        <star name="Alnair" identity="Alpha Gruis" magnitude="1.74" spectral="B7IV" right_ascension="22h 8.233m" declination="-46° 57.667'" />
+        <star name="Alnath" identity="Beta Tauri" magnitude="1.65" spectral="B7III" right_ascension="5h 26.292m" declination="28° 36.450'" />
+        <star name="Alnilam" identity="Epsilon Orionis" magnitude="1.7" spectral="B0Ia" right_ascension="5h 36.213m" declination="-1° 12.117'" />
+        <star name="Alnitak" identity="Zeta Orionis" magnitude="2.05" spectral="O9.7Ib" right_ascension="5h 40.758m" declination="-1° 56.567'" />
+        <star name="Alphard" identity="Alpha Hydrae" magnitude="1.98" spectral="K3II-III" right_ascension="9h 27.587m" declination="-8° 39.517'" />
+        <star name="Alphecca" identity="Alpha Coronae Borealis" magnitude="2.23" spectral="A0V+G5V" right_ascension="15h 34.688m" declination="26° 42.883'" />
+        <star name="Alpheratz" identity="Alpha Andromedae" magnitude="2.06" spectral="B8IVpMnHg" right_ascension="0h 8.388m" declination="29° 5.433'" />
+        <star name="Alrai" identity="Gamma Cephei" magnitude="3.21" spectral="K1III-IV" right_ascension="23h 39.347m" declination="77° 37.950'" />
+        <star name="Alsaphi" identity="Sigma Draconis" magnitude="4.68" spectral="K0V" right_ascension="19h 32.360m" declination="69° 39.667'" />
+        <star name="Alshain" identity="Beta Aquilae" magnitude="3.71" spectral="G8IV" right_ascension="19h 55.313m" declination="6° 24.400'" />
+        <star name="Alsuhail" identity="Lambda Velorum" magnitude="2.21" spectral="K4.5Ib-II" right_ascension="9h 7.997m" declination="-43° 25.950'" />
+        <star name="Altair" identity="Alpha Aquilae" magnitude="0.77" spectral="A7V" right_ascension="19h 50.783m" declination="8° 52.100'" />
+        <star name="Altais" identity="Delta Draconis" magnitude="3.07" spectral="G9III" right_ascension="19h 12.555m" declination="67° 39.700'" />
+        <star name="Alterf" identity="Lambda Leonis" magnitude="4.31" spectral="K5III" right_ascension="9h 31.720m" declination="22° 58.083'" />
+        <star name="Aludra" identity="Eta Canis Majoris" magnitude="2.45" spectral="B5Ia" right_ascension="7h 24.095m" declination="-29° 18.183'" />
+        <star name="Alula Australis" identity="Zeta Ursae Majoris" magnitude="2.27" spectral="A1VpSrSi" right_ascension="13h 23.925m" declination="54° 55.517'" />
+        <star name="Alula Borealis" identity="Nu Ursae Majoris" magnitude="3.48" spectral="K3-IIIBa0.3" right_ascension="11h 18.478m" declination="33° 5.650'" />
+        <star name="Alwaid" identity="Beta Draconis" magnitude="2.79" spectral="G2Ib-IIa" right_ascension="17h 30.433m" declination="52° 18.083'" />
+        <star name="Alya" identity="Theta Serpentis" magnitude="4.62" spectral="A5V" right_ascension="18h 56.220m" declination="4° 12.217'" />
+        <star name="Ancha" identity="Theta Aquarii" magnitude="4.16" spectral="G8III-IV" right_ascension="22h 16.833m" declination="-7° 47.000'" />
+        <star name="Angetenar" identity="Tau2 Eridani" magnitude="3.69" spectral="M3.5IIIaCa-1" right_ascension="3h 19.517m" declination="-21° 45.467'" />
+        <star name="Ankaa" identity="Alpha Phoenicis" magnitude="2.39" spectral="K0III" right_ascension="0h 26.283m" declination="-42° 18.367'" />
+        <star name="Antares" identity="Alpha Scorpii" magnitude="0.96" spectral="M1.5Iab-Ib+B4Ve" right_ascension="16h 29.407m" declination="-26° 25.917'" />
+        <star name="Arcturus" identity="Alpha Bo÷tis" magnitude="-0.04" spectral="K1.5IIIFe-0.5" right_ascension="14h 15.662m" declination="19° 10.950'" />
+        <star name="Arkab" identity="Beta Sagittarii" magnitude="4.01" spectral="B9V" right_ascension="19h 22.638m" declination="-44° 27.533'" />
+        <star name="Arneb" identity="Alpha Leporis" magnitude="2.58" spectral="F0Ib" right_ascension="5h 32.730m" declination="-17° 49.333'" />
+        <star name="Arrakis" identity="Mu Draconis" magnitude="5.8" spectral="F7V" right_ascension="17h 5.328m" declination="54° 28.217'" />
+        <star name="Ascella" identity="Zeta Sagittarii" magnitude="2.6" spectral="A2III+A4IV" right_ascension="19h 2.612m" declination="-29° 52.817'" />
+        <star name="Asellus Australis" identity="Delta Cancri" magnitude="3.94" spectral="K0III-IIIb" right_ascension="8h 44.685m" declination="18° 9.250'" />
+        <star name="Asellus Borealis" identity="Gamma Cancri" magnitude="4.66" spectral="A1IV" right_ascension="8h 43.285m" declination="21° 28.117'" />
+        <star name="Aspidiske" identity="Iota Carinae" magnitude="2.25" spectral="A8Ib" right_ascension="9h 17.090m" declination="-59° 16.517'" />
+        <star name="Asterope" identity="21 Tauri" magnitude="5.76" spectral="B8V" right_ascension="3h 45.907m" declination="24° 33.283'" />
+        <star name="Atik" identity="Zeta Persei" magnitude="2.85" spectral="B1Ib" right_ascension="3h 54.132m" declination="31° 53.017'" />
+        <star name="Atlas" identity="27 Tauri" magnitude="3.63" spectral="B8III" right_ascension="3h 49.162m" declination="24° 3.200'" />
+        <star name="Atria" identity="Alpha Trianguli Australis" magnitude="1.92" spectral="K2IIb-IIIa" right_ascension="16h 48.665m" declination="-69° 1.667'" />
+        <star name="Auva" identity="Delta Virginis" magnitude="3.38" spectral="M3+III" right_ascension="12h 55.603m" declination="3° 23.850'" />
+        <star name="Avior" identity="Epsilon Carinae" magnitude="1.86" spectral="K3III+B2:V" right_ascension="8h 22.513m" declination="-59° 30.583'" />
+        <star name="Azha" identity="Eta Eridani" magnitude="3.89" spectral="K1-IIIbBa0.2:" right_ascension="2h 56.428m" declination="-8° 53.883'" />
+        <star name="Baham" identity="Theta Pegasi" magnitude="3.53" spectral="A2Vp" right_ascension="22h 10.200m" declination="6° 11.867'" />
+        <star name="Baten Kaitos" identity="Zeta Ceti" magnitude="3.73" spectral="K0IIIBa0.1" right_ascension="1h 51.460m" declination="-10° 20.100'" />
+        <star name="Beid" identity="Omicron2 Eridani" magnitude="4.04" spectral="F2II-III" right_ascension="4h 11.865m" declination="-6° 50.250'" />
+        <star name="Bellatrix" identity="Gamma Orionis" magnitude="1.64" spectral="B2III" right_ascension="5h 25.132m" declination="6° 20.983'" />
+        <star name="Benetnasch" identity="Eta Ursae Majoris" magnitude="1.86" spectral="B3V" right_ascension="13h 47.540m" declination="49° 18.800'" />
+        <star name="Betelgeuse" identity="Alpha Orionis" magnitude="0.5" spectral="M1-2Ia-Iab" right_ascension="5h 55.172m" declination="7° 24.417'" />
+        <star name="Botein" identity="Delta Arietis" magnitude="4.35" spectral="K2III" right_ascension="3h 11.630m" declination="19° 43.600'" />
+        <star name="Canopus" identity="Alpha Carinae" magnitude="-0.72" spectral="F0II" right_ascension="6h 23.952m" declination="-52° 41.750'" />
+        <star name="Capella" identity="Alpha Aurigae" magnitude="0.08" spectral="G5IIIe+G0III" right_ascension="5h 16.690m" declination="45° 59.883'" />
+        <star name="Caph" identity="Beta Cassiopeiae" magnitude="2.27" spectral="F2III-IV" right_ascension="0h 9.178m" declination="59° 8.983'" />
+        <star name="Castor" identity="Alpha Geminorum" magnitude="1.98" spectral="A1V" right_ascension="7h 34.600m" declination="31° 53.300'" />
+        <star name="Celaeno" identity="16 Tauri" magnitude="5.46" spectral="B7IV" right_ascension="3h 44.803m" declination="24° 17.367'" />
+        <star name="Celbalrai" identity="Beta Ophiuchi" magnitude="2.77" spectral="K2III" right_ascension="17h 43.473m" declination="4° 34.033'" />
+        <star name="Chara" identity="Beta Canem Venaticorum" magnitude="4.26" spectral="G0V" right_ascension="12h 33.742m" declination="41° 21.450'" />
+        <star name="Chort" identity="Theta Leonis" magnitude="3.34" spectral="A2V" right_ascension="11h 14.240m" declination="15° 25.767'" />
+        <star name="Cor Caroli" identity="Alpha Canem Venaticorum" magnitude="2.9" spectral="A0pSiEuHg" right_ascension="12h 56.028m" declination="38° 19.100'" />
+        <star name="Coxa" identity="Theta Leonis" magnitude="3.34" spectral="A2V" right_ascension="11h 14.240m" declination="15° 25.767'" />
+        <star name="Cujam" identity="Omega Herculis" magnitude="4.57" spectral="B9pCr" right_ascension="16h 25.417m" declination="14° 2.000'" />
+        <star name="Cursa" identity="Beta Eridani" magnitude="2.79" spectral="A3III" right_ascension="5h 7.850m" declination="-5° 5.183'" />
+        <star name="Dabih" identity="Beta Capricorni" magnitude="3.08" spectral="F8V+A0" right_ascension="20h 21.012m" declination="-14° 46.883'" />
+        <star name="Deneb" identity="Alpha Cygni" magnitude="1.25" spectral="A2Ia" right_ascension="20h 41.432m" declination="45° 16.817'" />
+        <star name="Deneb Algiedi" identity="Delta Capricorni" magnitude="2.87" spectral="Am" right_ascension="21h 47.040m" declination="-16° 7.633'" />
+        <star name="Deneb Kaitos" identity="Beta Ceti" magnitude="2.04" spectral="G9.5IIICH-1" right_ascension="0h 43.590m" declination="-17° 59.200'" />
+        <star name="Denebola" identity="Beta Leonis" magnitude="2.14" spectral="A3V" right_ascension="11h 49.060m" declination="14° 34.317'" />
+        <star name="Diphda" identity="Beta Ceti" magnitude="2.04" spectral="G9.5IIICH-1" right_ascension="0h 43.590m" declination="-17° 59.200'" />
+        <star name="Dnoces" identity="Iota Ursae Majoris" magnitude="3.14" spectral="A7IV" right_ascension="8h 59.207m" declination="48° 2.500'" />
+        <star name="Dschubba" identity="Delta Scorpii" magnitude="2.32" spectral="B0.3IV" right_ascension="16h 0.333m" declination="-22° 37.300'" />
+        <star name="Dubhe" identity="Alpha Ursae Majoris" magnitude="1.79" spectral="K0IIIa" right_ascension="11h 3.728m" declination="61° 45.050'" />
+        <star name="Dziban" identity="Psi Draconis" magnitude="4.58" spectral="F5IV-V" right_ascension="17h 41.938m" declination="72° 8.933'" />
+        <star name="Edasich" identity="Iota Draconis" magnitude="3.29" spectral="K2III" right_ascension="15h 24.930m" declination="58° 57.967'" />
+        <star name="El Nath" identity="Beta Tauri" magnitude="1.65" spectral="B7III" right_ascension="5h 26.292m" declination="28° 36.450'" />
+        <star name="Electra" identity="17 Tauri" magnitude="3.7" spectral="B6III" right_ascension="3h 44.875m" declination="24° 6.800'" />
+        <star name="Eltanin" identity="Gamma Draconis" magnitude="2.23" spectral="K5III" right_ascension="17h 56.607m" declination="51° 29.333'" />
+        <star name="Enif" identity="Epsilon Pegasi" magnitude="2.39" spectral="K2Ib" right_ascension="21h 44.187m" declination="9° 52.500'" />
+        <star name="Errai" identity="Gamma Cephei" magnitude="3.21" spectral="K1III-IV" right_ascension="23h 39.347m" declination="77° 37.950'" />
+        <star name="Fomalhaut" identity="Alpha Piscis Austrini" magnitude="1.16" spectral="A3V" right_ascension="22h 57.652m" declination="-29° 37.333'" />
+        <star name="Furud" identity="Zeta Canis Majoris" magnitude="3.02" spectral="B2.5V" right_ascension="6h 20.313m" declination="-30° 3.800'" />
+        <star name="Gacrux" identity="Gamma Crucis" magnitude="1.63" spectral="M3.5III" right_ascension="12h 31.165m" declination="-57° 6.800'" />
+        <star name="Gemma" identity="Alpha Coronae Borealis" magnitude="2.23" spectral="A0V+G5V" right_ascension="15h 34.688m" declination="26° 42.883'" />
+        <star name="Giauzar" identity="Lambda Draconis" magnitude="3.84" spectral="M0IIICa-1" right_ascension="11h 31.403m" declination="69° 19.867'" />
+        <star name="Giedi" identity="Alpha Capricorni" magnitude="3.57" spectral="G8IIIb" right_ascension="20h 18.055m" declination="-12° 32.683'" />
+        <star name="Gienah" identity="Gamma Corvi" magnitude="2.59" spectral="B8IIIpHgMn" right_ascension="12h 15.807m" declination="-17° 32.517'" />
+        <star name="Gomeisa" identity="Beta Canis Minoris" magnitude="2.9" spectral="B8Ve" right_ascension="7h 27.150m" declination="8° 17.367'" />
+        <star name="Graffias" identity="Beta Scorpii" magnitude="2.62" spectral="B1V" right_ascension="16h 5.437m" declination="-19° 48.333'" />
+        <star name="Grumium" identity="Xi Draconis" magnitude="3.75" spectral="K2-III" right_ascension="17h 53.528m" declination="56° 52.367'" />
+        <star name="Hadar (Agena)" identity="Beta Centauri" magnitude="0.61" spectral="B1III" right_ascension="14h 3.823m" declination="-60° 22.383'" />
+        <star name="Hamal" identity="Alpha Arietis" magnitude="2" spectral="K2-IIICa-1" right_ascension="2h 7.173m" declination="23° 27.750'" />
+        <star name="Heka" identity="Lambda Orionis" magnitude="3.54" spectral="O8III((f))" right_ascension="5h 35.138m" declination="9° 56.050'" />
+        <star name="Homam" identity="Zeta Pegasi" magnitude="3.4" spectral="B8V" right_ascension="22h 41.462m" declination="10° 49.883'" />
+        <star name="Izar" identity="Epsilon Bo÷tis" magnitude="2.7" spectral="K0-II-III" right_ascension="14h 44.987m" declination="27° 4.450'" />
+        <star name="Jabbah" identity="Nu Scorpii" magnitude="4.01" spectral="B3V" right_ascension="16h 11.995m" declination="-19° 27.633'" />
+        <star name="Kaffaljidhm" identity="Gamma Ceti" magnitude="3.47" spectral="A3V" right_ascension="2h 43.300m" declination="3° 14.150'" />
+        <star name="Kaitain" identity="Alpha Piscium" magnitude="4.33" spectral="A0pSiSr" right_ascension="2h 2.047m" declination="2° 45.817'" />
+        <star name="Kaus Australis" identity="Epsilon Sagittarii" magnitude="1.85" spectral="B9.5III" right_ascension="18h 24.172m" declination="-34° 23.083'" />
+        <star name="Kaus Borealis" identity="Lambda Sagittarii" magnitude="2.81" spectral="K1+IIIb" right_ascension="18h 27.970m" declination="-25° 25.300'" />
+        <star name="Kaus Media" identity="Delta Sagittarii" magnitude="2.7" spectral="K3-IIIa*" right_ascension="18h 20.995m" declination="-29° 49.683'" />
+        <star name="Keid" identity="Omicron2 Eridani" magnitude="4.04" spectral="F2II-III" right_ascension="4h 11.865m" declination="-6° 50.250'" />
+        <star name="Kelb al Rai" identity="Beta Ophiuchi" magnitude="2.77" spectral="K2III" right_ascension="17h 43.473m" declination="4° 34.033'" />
+        <star name="Kitalpha" identity="Alpha Equulei" magnitude="3.92" spectral="G0III+A5V" right_ascension="21h 15.823m" declination="5° 14.867'" />
+        <star name="Kochab" identity="Beta Ursae Minoris" magnitude="2.08" spectral="K4-III" right_ascension="14h 50.705m" declination="74° 9.333'" />
+        <star name="Kornephoros" identity="Beta Herculis" magnitude="2.77" spectral="G7IIIa" right_ascension="16h 30.220m" declination="21° 29.383'" />
+        <star name="Kraz" identity="Beta Corvi" magnitude="2.65" spectral="G5II" right_ascension="12h 34.387m" declination="-23° 23.800'" />
+        <star name="Kuma" identity="Mu Draconis" magnitude="5.8" spectral="F7V" right_ascension="17h 5.328m" declination="54° 28.217'" />
+        <star name="Kurah" identity="Xi Cephei" magnitude="4.29" spectral="A3/6Vm" right_ascension="22h 3.790m" declination="64° 37.667'" />
+        <star name="Lesath" identity="Nu Scorpii" magnitude="4.01" spectral="B3V" right_ascension="16h 11.995m" declination="-19° 27.633'" />
+        <star name="Maasym" identity="Kappa Herculis" magnitude="5" spectral="G8III" right_ascension="16h 8.075m" declination="17° 2.817'" />
+        <star name="Maaz" identity="Epsilon Aurigae" magnitude="2.99" spectral="F0Iae+B" right_ascension="5h 1.968m" declination="43° 49.400'" />
+        <star name="Maia" identity="20 Tauri" magnitude="3.87" spectral="B8III" right_ascension="3h 45.827m" declination="24° 22.067'" />
+        <star name="Marfik" identity="Lambda Ophiuchi" magnitude="3.82" spectral="A0V+A4V" right_ascension="16h 30.913m" declination="1° 59.033'" />
+        <star name="Markab" identity="Alpha Pegasi" magnitude="2.49" spectral="B9V" right_ascension="23h 4.762m" declination="15° 12.317'" />
+        <star name="Matar" identity="Eta Pegasi" magnitude="2.94" spectral="G2II-III+F0V" right_ascension="22h 43.002m" declination="30° 13.283'" />
+        <star name="Mebsuta" identity="Epsilon Geminorum" magnitude="2.98" spectral="G8Ib" right_ascension="6h 43.932m" declination="25° 7.867'" />
+        <star name="Megrez" identity="Delta Ursae Majoris" magnitude="3.31" spectral="A3V" right_ascension="12h 15.427m" declination="57° 1.950'" />
+        <star name="Meissa" identity="Lambda Orionis" magnitude="3.54" spectral="O8III((f))" right_ascension="5h 35.138m" declination="9° 56.050'" />
+        <star name="Mekbuda" identity="Zeta Geminorum" magnitude="3.79" spectral="F7-G3Ib" right_ascension="7h 4.108m" declination="20° 34.217'" />
+        <star name="Menkalinan" identity="Beta Aurigae" magnitude="1.9" spectral="A2IV" right_ascension="5h 59.528m" declination="44° 56.850'" />
+        <star name="Menkar" identity="Alpha Ceti" magnitude="2.53" spectral="M1.5IIIa" right_ascension="3h 2.280m" declination="4° 5.383'" />
+        <star name="Menkent" identity="Theta Centauri" magnitude="2.06" spectral="K0-IIIb" right_ascension="14h 6.683m" declination="-36° 22.200'" />
+        <star name="Menkib" identity="Xi Persei" magnitude="4.04" spectral="O7.5III(n)((f))" right_ascension="3h 58.965m" declination="35° 47.467'" />
+        <star name="Merak" identity="Beta Ursae Majoris" magnitude="2.37" spectral="A1V" right_ascension="11h 1.842m" declination="56° 22.950'" />
+        <star name="Merope" identity="23 Tauri" magnitude="4.18" spectral="B6IVe" right_ascension="3h 46.327m" declination="23° 56.900'" />
+        <star name="Mesarthim" identity="Gamma Arietis" magnitude="4.75" spectral="A1pSi" right_ascension="1h 53.530m" declination="19° 17.617'" />
+        <star name="Miaplacidus" identity="Beta Carinae" magnitude="1.68" spectral="A2IV" right_ascension="9h 13.200m" declination="-69° 43.033'" />
+        <star name="Mimosa" identity="Beta Crucis" magnitude="1.25" spectral="B0.5III" right_ascension="12h 47.720m" declination="-59° 41.317'" />
+        <star name="Mintaka" identity="Delta Orionis" magnitude="2.23" spectral="O9.5II" right_ascension="5h 32.007m" declination="0° 17.950'" />
+        <star name="Mira" identity="Omicron Ceti" magnitude="3.04" spectral="M7IIIe+Bep" right_ascension="2h 19.345m" declination="-2° 58.650'" />
+        <star name="Mirach" identity="Beta Andromedae" magnitude="2.06" spectral="M0+IIIa" right_ascension="1h 9.732m" declination="35° 37.233'" />
+        <star name="Mirfak" identity="Alpha Persei" magnitude="1.79" spectral="F5Ib" right_ascension="3h 24.323m" declination="49° 51.667'" />
+        <star name="Mirzam" identity="Beta Canis Majoris" magnitude="1.98" spectral="B1II-III" right_ascension="6h 22.700m" declination="-17° 57.350'" />
+        <star name="Mizar" identity="Zeta Ursae Majoris" magnitude="2.27" spectral="A1VpSrSi" right_ascension="13h 23.925m" declination="54° 55.517'" />
+        <star name="Mothallah" identity="Alpha Trianguli" magnitude="3.41" spectral="F6IV" right_ascension="1h 53.082m" declination="29° 34.733'" />
+        <star name="Muphrid" identity="Eta Bo÷tis" magnitude="2.68" spectral="G0IV" right_ascension="13h 54.685m" declination="18° 23.867'" />
+        <star name="Murzim" identity="Beta Canis Majoris" magnitude="1.98" spectral="B1II-III" right_ascension="6h 22.700m" declination="-17° 57.350'" />
+        <star name="Muscida" identity="Omicron Ursae Majoris" magnitude="3.36" spectral="G5III" right_ascension="8h 30.265m" declination="60° 43.083'" />
+        <star name="Naos" identity="Zeta Puppis" magnitude="2.25" spectral="O5f" right_ascension="8h 3.585m" declination="-40° 0.200'" />
+        <star name="Nashira" identity="Gamma Capricorni" magnitude="3.68" spectral="F0p" right_ascension="21h 40.092m" declination="-16° 39.733'" />
+        <star name="Nasl" identity="Gamma Sagittarii" magnitude="2.99" spectral="K0III" right_ascension="18h 5.808m" declination="-30° 25.450'" />
+        <star name="Nath" identity="Beta Tauri" magnitude="1.65" spectral="B7III" right_ascension="5h 26.292m" declination="28° 36.450'" />
+        <star name="Navi" identity="Epsilon Cassiopeiae" magnitude="3.38" spectral="B3III" right_ascension="1h 54.395m" declination="63° 40.200'" />
+        <star name="Nekkar" identity="Beta Bo÷tis" magnitude="3.5" spectral="G8IIIaBa0.3Fe-0.5" right_ascension="15h 1.947m" declination="40° 23.433'" />
+        <star name="Nihal" identity="Beta Leporis" magnitude="2.84" spectral="G5II" right_ascension="5h 28.245m" declination="-20° 45.567'" />
+        <star name="Nivlek" identity="Eta Antilae" magnitude="5.23" spectral="F1III-IV" right_ascension="9h 58.872m" declination="-35° 53.467'" />
+        <star name="Nodus Secundus" identity="Delta Draconis" magnitude="3.07" spectral="G9III" right_ascension="19h 12.555m" declination="67° 39.700'" />
+        <star name="Nunki" identity="Delta Sagittarii" magnitude="2.7" spectral="K3-IIIa*" right_ascension="18h 20.995m" declination="-29° 49.683'" />
+        <star name="Nusakan" identity="Beta Coronae Borealis" magnitude="3.68" spectral="F0p" right_ascension="15h 27.828m" declination="29° 6.350'" />
+        <star name="Okda" identity="Alpha Piscium" magnitude="4.33" spectral="A0pSiSr" right_ascension="2h 2.047m" declination="2° 45.817'" />
+        <star name="Peacock" identity="Alpha Pavonis" magnitude="1.94" spectral="B2IV" right_ascension="20h 25.648m" declination="-56° 44.100'" />
+        <star name="Phact" identity="Alpha Columbae" magnitude="2.64" spectral="B7IVe" right_ascension="5h 39.648m" declination="-34° 4.450'" />
+        <star name="Phad" identity="Gamma Ursae Majoris" magnitude="2.44" spectral="A0Ve" right_ascension="11h 53.830m" declination="53° 41.683'" />
+        <star name="Phecda" identity="Gamma Ursae Majoris" magnitude="2.44" spectral="A0Ve" right_ascension="11h 53.830m" declination="53° 41.683'" />
+        <star name="Pherkad" identity="Gamma Ursae Minoris" magnitude="3.05" spectral="A3II-III" right_ascension="15h 20.728m" declination="71° 50.033'" />
+        <star name="Pleione" identity="28 Tauri" magnitude="5.09" spectral="B8Vpe" right_ascension="3h 49.187m" declination="24° 8.200'" />
+        <star name="Polaris" identity="Alpha Ursae Minoris" magnitude="2.02" spectral="F7:Ib-II" right_ascension="2h 31.812m" declination="89° 15.850'" />
+        <star name="Pollux" identity="Beta Geminorum" magnitude="1.14" spectral="K0IIIb" right_ascension="7h 45.315m" declination="28° 1.567'" />
+        <star name="Porrima" identity="Gamma Virginis" magnitude="3.65" spectral="F0V" right_ascension="12h 41.660m" declination="-1° 26.967'" />
+        <star name="Procyon" identity="Alpha Canis Minoris" magnitude="0.38" spectral="F5IV-V" right_ascension="7h 39.302m" declination="5° 13.500'" />
+        <star name="Propus" identity="Eta Geminorum" magnitude="3.28" spectral="M3III" right_ascension="6h 14.877m" declination="22° 30.400'" />
+        <star name="Proxima" identity="Alpha Centauri" magnitude="1.33" spectral="K1V" right_ascension="14h 39.602m" declination="-60° 50.133'" />
+        <star name="Pulcherrima" identity="Epsilon Bo÷tis" magnitude="2.7" spectral="K0-II-III" right_ascension="14h 44.987m" declination="27° 4.450'" />
+        <star name="Rana" identity="Delta Eridani" magnitude="3.54" spectral="K0+IV" right_ascension="3h 43.248m" declination="-9° 45.800'" />
+        <star name="Rasalas" identity="Mu Leonis" magnitude="3.88" spectral="K2IIICN1Ca1" right_ascension="9h 52.763m" declination="26° 0.417'" />
+        <star name="Rasalgethi" identity="Alpha Herculis" magnitude="3.48" spectral="M5Ib-II" right_ascension="17h 14.648m" declination="14° 23.417'" />
+        <star name="Rasalhague" identity="Alpha Ophiuchi" magnitude="2.08" spectral="A5III" right_ascension="17h 34.935m" declination="12° 33.600'" />
+        <star name="Rastaban" identity="Beta Draconis" magnitude="2.79" spectral="G2Ib-IIa" right_ascension="17h 30.433m" declination="52° 18.083'" />
+        <star name="Regor" identity="Gamma Velorum" magnitude="1.78" spectral="WC8+O9I" right_ascension="8h 9.533m" declination="-47° 20.200'" />
+        <star name="Regulus" identity="Alpha Leonis" magnitude="1.35" spectral="B7V" right_ascension="10h 8.372m" declination="11° 58.033'" />
+        <star name="Rigel" identity="Beta Orionis" magnitude="0.12" spectral="B8Ia:" right_ascension="5h 14.538m" declination="-8° 12.100'" />
+        <star name="Rigilkent" identity="Alpha Centauri" magnitude="-0.01" spectral="G2V" right_ascension="14h 39.498m" declination="-60° 50.117'" />
+        <star name="Risha" identity="Alpha Piscium" magnitude="4.33" spectral="A0pSiSr" right_ascension="2h 2.047m" declination="2° 45.817'" />
+        <star name="Rotanev" identity="Beta Delphini" magnitude="3.63" spectral="F5IV" right_ascension="20h 37.550m" declination="14° 35.717'" />
+        <star name="Rukbah" identity="Delta Cassiopeiae" magnitude="2.68" spectral="A5III-IV" right_ascension="1h 25.817m" declination="60° 14.117'" />
+        <star name="Rukbat" identity="Alpha Sagittarii" magnitude="3.97" spectral="B8V" right_ascension="19h 23.887m" declination="-40° 36.967'" />
+        <star name="Sabik" identity="Eta Ophiuchi" magnitude="2.43" spectral="A2V" right_ascension="17h 10.378m" declination="-15° 43.483'" />
+        <star name="Sadachbia" identity="Gamma Aquarii" magnitude="3.84" spectral="A0V" right_ascension="22h 21.657m" declination="-1° 23.233'" />
+        <star name="Sadalbari" identity="Mu Pegasi" magnitude="3.48" spectral="G8+III" right_ascension="22h 50.003m" declination="24° 36.100'" />
+        <star name="Sadalmelik" identity="Alpha Aquarii" magnitude="2.96" spectral="G2Ib" right_ascension="22h 5.783m" declination="0° 19.183'" />
+        <star name="Sadalsuud" identity="Beta Aquarii" magnitude="2.91" spectral="G0Ib" right_ascension="21h 31.558m" declination="-5° 34.267'" />
+        <star name="Sadr" identity="Gamma Cygni" magnitude="2.2" spectral="F8Ib" right_ascension="20h 22.228m" declination="40° 15.400'" />
+        <star name="Saiph" identity="Kappa Orionis" magnitude="2.06" spectral="B0.5Ia" right_ascension="5h 47.757m" declination="-9° 40.183'" />
+        <star name="Sarin" identity="Delta Herculis" magnitude="3.14" spectral="A3IV" right_ascension="17h 15.032m" declination="24° 50.350'" />
+        <star name="Scheat" identity="Beta Pegasi" magnitude="2.42" spectral="M2.5II-III" right_ascension="23h 3.775m" declination="28° 4.967'" />
+        <star name="Schedar" identity="Alpha Cassiopeiae" magnitude="2.23" spectral="K0IIIa" right_ascension="0h 40.508m" declination="56° 32.233'" />
+        <star name="Scutulum" identity="Iota Carinae" magnitude="2.25" spectral="A8Ib" right_ascension="9h 17.090m" declination="-59° 16.517'" />
+        <star name="Shaula" identity="Lambda Scorpii" magnitude="1.63" spectral="B2IV+B" right_ascension="17h 33.608m" declination="-37° 6.233'" />
+        <star name="Shelyak" identity="Beta Lyrae" magnitude="3.45" spectral="B8IIpe" right_ascension="18h 50.080m" declination="33° 21.767'" />
+        <star name="Sheratan" identity="Beta Arietis" magnitude="2.64" spectral="A5V" right_ascension="1h 54.640m" declination="20° 48.483'" />
+        <star name="Sirius" identity="Alpha Canis Majoris" magnitude="-1.46" spectral="A1Vm" right_ascension="6h 45.148m" declination="-16° 42.967'" />
+        <star name="Sirrah" identity="Alpha Andromedae" magnitude="2.06" spectral="B8IVpMnHg" right_ascension="0h 8.388m" declination="29° 5.433'" />
+        <star name="Skat" identity="Delta Aquarii" magnitude="3.27" spectral="A3V" right_ascension="22h 54.650m" declination="-15° 49.250'" />
+        <star name="Spica" identity="Alpha Virginis" magnitude="0.98" spectral="B1III-IV+B2V" right_ascension="13h 25.193m" declination="-11° 9.683'" />
+        <star name="Sterope" identity="21 Tauri" magnitude="5.76" spectral="B8V" right_ascension="3h 45.907m" declination="24° 33.283'" />
+        <star name="Sualocin" identity="Beta Delphini" magnitude="3.63" spectral="F5IV" right_ascension="20h 37.550m" declination="14° 35.717'" />
+        <star name="Sulaphat" identity="Gamma Lyrae" magnitude="3.24" spectral="B9III" right_ascension="18h 58.943m" declination="32° 41.367'" />
+        <star name="Syrma" identity="Iota Virginis" magnitude="4.08" spectral="F6III" right_ascension="14h 16.015m" declination="-6° 0.033'" />
+        <star name="Talitha Australis" identity="Kappa Ursae Majoris" magnitude="3.6" spectral="A1Vn" right_ascension="9h 3.625m" declination="47° 9.400'" />
+        <star name="Talitha Borealis" identity="Iota Ursae Majoris" magnitude="3.14" spectral="A7IV" right_ascension="8h 59.207m" declination="48° 2.500'" />
+        <star name="Tania Australis" identity="Mu Ursae Majoris" magnitude="3.05" spectral="M0III" right_ascension="10h 22.328m" declination="41° 29.967'" />
+        <star name="Tania Borealis" identity="Lambda Ursae Majoris" magnitude="3.45" spectral="A2IV" right_ascension="10h 17.097m" declination="42° 54.867'" />
+        <star name="Tarazed" identity="Gamma Aquilae" magnitude="2.72" spectral="K3II" right_ascension="19h 46.260m" declination="10° 36.800'" />
+        <star name="Tarf" identity="Beta Cancri" magnitude="3.52" spectral="K4IIIBa0.5" right_ascension="8h 16.515m" declination="9° 11.133'" />
+        <star name="Taygeta" identity="19 Tauri" magnitude="4.3" spectral="B6IV" right_ascension="3h 45.208m" declination="24° 28.033'" />
+        <star name="Tegmine" identity="Mu Cancri" magnitude="5.3" spectral="G1IVb" right_ascension="8h 7.763m" declination="21° 34.900'" />
+        <star name="Tejat" identity="Mu Geminorum" magnitude="2.88" spectral="M3IIIab" right_ascension="6h 22.960m" declination="22° 30.817'" />
+        <star name="Thuban" identity="Alpha Draconis" magnitude="3.65" spectral="A0III" right_ascension="14h 4.388m" declination="64° 22.550'" />
+        <star name="Tsih" identity="Gamma Cassiopeiae" magnitude="2.47" spectral="B0IVe" right_ascension="0h 56.708m" declination="60° 43.000'" />
+        <star name="Tyl" identity="Epsilon Draconis" magnitude="3.83" spectral="G7IIIbCN-2" right_ascension="19h 48.173m" declination="70° 16.067'" />
+        <star name="Unukalhai" identity="Alpha Serpentis" magnitude="2.65" spectral="K2IIIbCN1" right_ascension="15h 44.268m" declination="6° 25.533'" />
+        <star name="Vega" identity="Alpha Lyrae" magnitude="0.03" spectral="A0Va" right_ascension="18h 36.938m" declination="38° 47.017'" />
+        <star name="Vindemiatrix" identity="Epsilon Virginis" magnitude="2.83" spectral="G8IIIab" right_ascension="13h 2.177m" declination="10° 57.550'" />
+        <star name="Wasat" identity="Delta Geminorum" magnitude="3.53" spectral="F2IV" right_ascension="7h 20.123m" declination="21° 58.933'" />
+        <star name="Wazn" identity="Beta Columbae" magnitude="3.12" spectral="K2III" right_ascension="5h 50.960m" declination="-35° 46.100'" />
+        <star name="Wezen" identity="Delta Canis Majoris" magnitude="1.84" spectral="F8Ia" right_ascension="7h 8.392m" declination="-26° 23.600'" />
+        <star name="Yed Posterior" identity="Epsilon Ophiuchi" magnitude="3.24" spectral="G9.5IIIbFe-0.5" right_ascension="16h 18.322m" declination="-4° 41.550'" />
+        <star name="Yed Prior" identity="Delta Ophiuchi" magnitude="2.74" spectral="M0.5III" right_ascension="16h 14.345m" declination="-3° 41.667'" />
+        <star name="Yildun" identity="Delta Ursae Minoris" magnitude="4.36" spectral="A1Vn" right_ascension="17h 32.215m" declination="86° 35.183'" />
+        <star name="Zaniah" identity="Epsilon Virginis" magnitude="2.83" spectral="G8IIIab" right_ascension="13h 2.177m" declination="10° 57.550'" />
+        <star name="Zaurac" identity="Gamma Eridani" magnitude="2.95" spectral="M0.5IIICa-1Cr-1" right_ascension="3h 58.030m" declination="-13° 30.517'" />
+        <star name="Zavijava" identity="Beta Virginis" magnitude="3.61" spectral="F9V" right_ascension="11h 50.695m" declination="1° 45.883'" />
+        <star name="Zosma" identity="Delta Leonis" magnitude="2.56" spectral="A4V" right_ascension="11h 14.108m" declination="20° 31.417'" />
+        <star name="Zubenelgenubi" identity="Alpha Librae" magnitude="2.75" spectral="A3IV" right_ascension="14h 50.878m" declination="-16° 2.500'" />
+        <star name="Zubenelhakrabi" identity="Gamma Librae" magnitude="3.91" spectral="G8.5III" right_ascension="15h 35.527m" declination="-14° 47.367'" />
+        <star name="Zubeneshamali" identity="Beta Librae" magnitude="2.61" spectral="B8V" right_ascension="15h 17.007m" declination="-9° 22.983'" />
+</stars>
