@@ -1,5 +1,5 @@
 # Gallex
-## Solar system simulator.
+**Solar system simulator.**
 This is my school project that allows you to create a simulation of the solar system. 
 ![create planet menu](https://github.com/archylex/Gallex/blob/master/screenshots/2.png)
 **The project uses libraries:**
