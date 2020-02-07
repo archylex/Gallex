@@ -7,7 +7,7 @@ This is my school project that allows you to create a simulation of the solar sy
 * GLEW - an OpenGL extension library for using shaders
 * GLM - OpenGL Mathematics (This library completely replaced my mathematical functions from the project)
 * FreeImage - a library for support graphics image formats like PNG, BMP, JPEG...
-##Settings
+## Settings
 * settings.conf - configuration file, which sets the screen resolution
 * stars.xml - base of stars that surround the solar system
 Add your pictures to the appropriate folders.
@@ -17,7 +17,7 @@ Add your pictures to the appropriate folders.
 * data/textures/ring/ - planet rings
 * data/textures/system/ - background, bokeh and cursor
 * data/fonts/ - font files can be changed as desired
-##Controls
+## Controls
 **Mouse:**
 * Right Button - camera rotation around the system
 * Middle Button - zoom in and out
