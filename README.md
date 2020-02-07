@@ -21,7 +21,7 @@ Add your pictures to the appropriate folders. \
 **Mouse:**
 * Right Button - camera rotation around the system
 * Middle Button - zoom in and out
-* Left Button - select an object
+* Left Button - select an object \
 **Keyboard:**
 * f - focus on the selected object
 * r - reset camera position
