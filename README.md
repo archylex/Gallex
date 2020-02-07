@@ -1,6 +1,7 @@
 # Gallex
-##Solar system simulator.
+## Solar system simulator.
 This is my school project that allows you to create a simulation of the solar system. 
+![create planet menu](https://github.com/archylex/Gallex/blob/master/screenshots/2.png)
 **The project uses libraries:**
 * GLUT - a library for managing the window manager and input interface
 * GLEW - an OpenGL extension library for using shaders
@@ -26,4 +27,4 @@ Add your pictures to the appropriate folders.
 * r - reset camera position
 * i - show/hide info on selected object
 ***To call up the menu press 'Esc' or click on the bottom button.***
-![alt text](https://avatars2.githubusercontent.com/u/11632545?v=3&s=200)
+![create planet menu](https://github.com/archylex/Gallex/blob/master/screenshots/3.png)
