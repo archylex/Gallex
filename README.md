@@ -1,5 +1,4 @@
 # Gallex
- \
 **Solar system simulator.**\
  \
 This is my school project that allows you to create a simulation of the solar system. \
