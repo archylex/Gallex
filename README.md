@@ -10,7 +10,9 @@ This is my school project that allows you to create a simulation of the solar sy
 ## Settings
 * settings.conf - configuration file, which sets the screen resolution
 * stars.xml - base of stars that surround the solar system \
+ \
 Add your pictures to the appropriate folders. \
+ \
 **Folders:**
 * data/textures/planet/ - planet textures
 * data/textures/satellite/ - satellite textures
