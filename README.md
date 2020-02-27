@@ -29,7 +29,9 @@ Add your pictures to the appropriate folders. \
 * i - show/hide info on selected object
 
 ***To call up the menu press 'Esc' or click on the bottom button.*** \
+\
 ![create planet menu](https://github.com/archylex/Gallex/blob/master/screenshots/3.png)
+ \
  \
 ***In the Settings menu:***
 * Time - set time step per second (sec)
