@@ -31,7 +31,7 @@ Add your pictures to the appropriate folders. \
 ***To call up the menu press 'Esc' or click on the bottom button.*** \
 ![create planet menu](https://github.com/archylex/Gallex/blob/master/screenshots/3.png)
  \
-***Settings***
+***In the Settings menu:***
 * Time - set time step per second (sec)
 * System scale - scale radius and distance (km)
 * Distance scale - scale the distances between celestial bodies, but not their radius (km)
