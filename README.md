@@ -9,7 +9,7 @@ This is my school project that allows you to create a simulation of the solar sy
 * FreeImage - a library for support graphics image formats like PNG, BMP, JPEG...
 ## Settings
 * settings.conf - configuration file, which sets the screen resolution
-* stars.xml - base of stars that surround the solar system
+* stars.xml - base of stars that surround the solar system \
 Add your pictures to the appropriate folders. \
 **Folders:**
 * data/textures/planet/ - planet textures
@@ -30,3 +30,8 @@ Add your pictures to the appropriate folders. \
 
 ***To call up the menu press 'Esc' or click on the bottom button.*** \
 ![create planet menu](https://github.com/archylex/Gallex/blob/master/screenshots/3.png)
+ \
+***Settings***
+* Time - set time step per second (sec)
+* System scale - scale radius and distance (km)
+* Distance scale - scale the distances between celestial bodies, but not their radius (km)
